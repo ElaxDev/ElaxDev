@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elaxdev&label=Profile%20views&color=0e75b6&style=flat" alt="elaxdev" /> </p>
 
-- 🌱 I’m currently learning **ReactJs, NextJs, OpenGl, Assembly x86, Unity and Godot**
+- 🌱 I’m currently learning **ReactJs, NextJs, OpenGL, Assembly x86, Unity and Godot**
 
 - 💬 Ask me about **Python, JavaScript and DiscordJs**
 
