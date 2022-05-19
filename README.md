@@ -9,7 +9,7 @@
 </p>
   <br>
 
-  - 🔬 I'm currently studying Software Engineering in Universidad Adventista Dominicana
+  - 🔬 I'm currently studying Software Engineering
 
   - 💻 I love writing code and learning new things
 
