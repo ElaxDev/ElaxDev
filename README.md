@@ -17,7 +17,7 @@
 
   - 💻 I love writing code and learning new things
 
-  - 🌱 I’m currently learning Kotlin
+  - 🌱 Interested in learning C
 
   - 📫 How to reach me **elax27@hotmail.com**
 
@@ -51,6 +51,5 @@
 
 <p align=center>
     <img height=175 align="" src="https://github-readme-stats.vercel.app/api?username=elaxdev&show_icons=true&theme=gotham">
-    <img height=175 align="" src="https://github-readme-stats.vercel.app/api/wakatime?username=ElaxDev&theme=gotham"/>
 </p>
 <hr>
