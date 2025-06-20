@@ -8,7 +8,7 @@
   Software Engineering student from Dominican Republic
 </p>
 <p align="center">
-  Currently working on [NihongoTracker, an immersion tracker for Japanese.](https://elaxdev.github.io/immersiontracker/)
+  Currently working on NihongoTracker, an immersion tracker for Japanese.
 </p>
   <br>
 
